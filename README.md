@@ -17,7 +17,8 @@ JavaScript'te, matematiksel işlemler yapmak, mantıksal karşılaştırmalar ya
 ## Koşullu İfadeler:
 Koşullu ifadeler, belirli bir koşulun karşılanıp karşılanmadığını kontrol eder ve belirli bir kod bloğunun yürütülmesine karar verir. "if" ve "else" gibi anahtar kelimeler, koşullu ifadeler oluşturmak için kullanılır.
 
-## Döngüler: Döngüler, belirli bir kod bloğunu birçok kez çalıştırmak için kullanılır. "for", "while" ve "do-while" gibi döngü yapıları, farklı senaryolarda kullanılabilir.
+## Döngüler: 
+Döngüler, belirli bir kod bloğunu birçok kez çalıştırmak için kullanılır. "for", "while" ve "do-while" gibi döngü yapıları, farklı senaryolarda kullanılabilir.
 
 ## Fonksiyonlar: 
 JavaScript'te fonksiyonlar, belirli bir kod bloğunu bir işlev olarak gruplamak için kullanılır. Fonksiyonlar, belirli bir kod bloğunu tekrar tekrar kullanmak ve kodun daha okunaklı ve yönetilebilir olmasını sağlamak için kullanılabilir.
